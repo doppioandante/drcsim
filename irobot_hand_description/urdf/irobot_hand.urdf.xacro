@@ -68,12 +68,6 @@
                iyy="${2.04906e-7 / (2 * flex_joint_steps + 1)}" iyz="0.0"
                izz="${2.65921e-7 / (2 * flex_joint_steps + 1)}"/>
     </inertial>
-    <collision>
-      <geometry>
-        <box size="0 0 0"/>
-      </geometry>
-      <origin xyz="0 0 0" rpy="0 0 0"/>
-    </collision>
     <visual>
       <geometry>
         <box size="0 0 0"/>
@@ -120,12 +114,6 @@
                iyy="${2.04906e-7 / (2 * flex_joint_steps + 1)}" iyz="0.0"
                izz="${2.65921e-7 / (2 * flex_joint_steps + 1)}"/>
     </inertial>
-    <collision>
-      <geometry>
-        <box size="0 0 0"/>
-      </geometry>
-      <origin xyz="0 0 0" rpy="0 0 0"/>
-    </collision>
     <visual>
       <geometry>
         <box size="0 0 0"/>
@@ -169,12 +157,6 @@
                iyy="${2.04906e-7 / (2 * flex_joint_steps + 1)}" iyz="0.0"
                izz="${2.65921e-7 / (2 * flex_joint_steps + 1)}"/>
     </inertial>
-    <collision>
-      <geometry>
-        <box size="0 0 0"/>
-      </geometry>
-      <origin xyz="0 0 0" rpy="0 0 0"/>
-    </collision>
     <visual>
       <geometry>
         <box size="0 0 0"/>
