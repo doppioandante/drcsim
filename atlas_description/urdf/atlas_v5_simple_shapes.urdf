@@ -7,8 +7,9 @@
       <inertia ixx="0.011" ixy="0" ixz="0" iyy="0.009" iyz="0.004" izz="0.004"/>
     </inertial>
     <visual>
+      <origin rpy="0 0 3.14159265359" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://atlas_description/meshes_unplugged/r_clav.dae"/>
+        <mesh filename="package://atlas_description/meshes_unplugged/l_clav.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -68,8 +69,9 @@
       <inertia ixx="0.00265" ixy="0" ixz="0" iyy="0.00446" iyz="0" izz="0.00446"/>
     </inertial>
     <visual>
+      <origin rpy="0 0 3.14159265359" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://atlas_description/meshes_unplugged/r_larm.dae"/>
+        <mesh filename="package://atlas_description/meshes_unplugged/l_larm.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -116,9 +118,9 @@
       <inertia ixx="0.000764" ixy="0" ixz="0" iyy="0.000429" iyz="0" izz="0.000825"/>
     </inertial>
     <visual>
-      <origin rpy="0 3.14159265359 0" xyz="0 0 0"/>
+      <origin rpy="3.14159265359 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://atlas_description/meshes_unplugged/r_hand.dae"/>
+        <mesh filename="package://atlas_description/meshes_unplugged/l_hand.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -207,8 +209,9 @@
       <inertia ixx="0.00319" ixy="0" ixz="0" iyy="0.00583" iyz="0" izz="0.00583"/>
     </inertial>
     <visual>
+      <origin rpy="0 0 3.14159265359" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://atlas_description/meshes_unplugged/r_scap.dae"/>
+        <mesh filename="package://atlas_description/meshes_unplugged/l_scap.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -267,8 +270,9 @@
       <inertia ixx="0.00656" ixy="0" ixz="0" iyy="0.00358" iyz="0" izz="0.00656"/>
     </inertial>
     <visual>
+      <origin rpy="0 0 3.14159265359" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://atlas_description/meshes_unplugged/r_uarm.dae"/>
+        <mesh filename="package://atlas_description/meshes_unplugged/l_uarm.dae"/>
       </geometry>
     </visual>
     <collision>
@@ -291,8 +295,9 @@
       <inertia ixx="0.012731" ixy="0" ixz="0" iyy="0.002857" iyz="0" izz="0.011948"/>
     </inertial>
     <visual>
+      <origin rpy="3.14159265359 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://atlas_description/meshes_unplugged/r_farm.dae"/>
+        <mesh filename="package://atlas_description/meshes_unplugged/l_farm.dae"/>
       </geometry>
     </visual>
     <collision>
