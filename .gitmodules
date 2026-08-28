@@ -1,0 +1,3 @@
+[submodule "sandia-hand"]
+	path = sandia-hand
+	url = https://github.com/osrf/sandia-hand.git
