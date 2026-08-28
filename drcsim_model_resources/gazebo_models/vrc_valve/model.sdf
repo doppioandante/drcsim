@@ -43,10 +43,13 @@
           </mesh>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_valve/materials/scripts</uri>
-            <uri>model://vrc_valve/materials/textures</uri>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_valve/materials/textures/vrc_valve.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -92,10 +95,8 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>file://media/materials/scripts</uri>
-            <name>Gazebo/Green</name>
-          </script>
+          <diffuse>0.0 1.0 0.0 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
         </material>
       </visual>
     </link>

@@ -31,11 +31,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -50,11 +52,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -69,11 +73,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -88,11 +94,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -107,11 +115,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -126,11 +136,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -145,11 +157,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -164,11 +178,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -183,11 +199,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -202,11 +220,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -221,11 +241,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -240,11 +262,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -259,11 +283,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -278,11 +304,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -297,11 +325,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -316,11 +346,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -335,11 +367,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -354,11 +388,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -373,11 +409,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -392,11 +430,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -411,11 +451,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -430,11 +472,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -449,11 +493,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -468,11 +514,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -487,11 +535,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -506,11 +556,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -525,11 +577,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -544,11 +598,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -563,11 +619,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -582,11 +640,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -601,11 +661,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -620,11 +682,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -639,11 +703,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -658,11 +724,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -677,11 +745,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -696,11 +766,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -715,11 +787,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -734,11 +808,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -753,11 +829,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -772,11 +850,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -791,11 +871,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -810,11 +892,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -829,11 +913,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -848,11 +934,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -867,11 +955,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -886,11 +976,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -905,11 +997,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -924,11 +1018,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -943,11 +1039,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -962,11 +1060,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -981,11 +1081,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1000,11 +1102,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1019,11 +1123,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1038,11 +1144,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1057,11 +1165,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1076,11 +1186,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1095,11 +1207,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1114,11 +1228,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1133,11 +1249,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1152,11 +1270,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1171,11 +1291,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1190,11 +1312,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1209,11 +1333,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1228,11 +1354,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1247,11 +1375,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1266,11 +1396,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1285,11 +1417,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1304,11 +1438,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1323,11 +1459,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1342,11 +1480,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1361,11 +1501,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1380,11 +1522,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1399,11 +1543,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1418,11 +1564,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1437,11 +1585,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1457,11 +1607,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1476,11 +1628,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1495,11 +1649,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1514,11 +1670,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1533,11 +1691,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1552,11 +1712,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1571,11 +1733,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1590,11 +1754,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1609,11 +1775,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1628,11 +1796,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1647,11 +1817,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1666,11 +1838,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1685,11 +1859,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -1704,11 +1880,13 @@
           </plane>
         </geometry>
         <material>
-          <script>
-            <uri>model://grass_plane/materials/scripts</uri>
-            <uri>model://grass_plane/materials/textures</uri>
-            <name>vrc/grass</name>
-          </script>
+          <diffuse>0.8 1.0 0.8 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://grass_plane/materials/textures/grass_dry.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>

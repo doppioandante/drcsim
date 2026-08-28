@@ -26,11 +26,13 @@
           </box>
         </geometry>
         <material>
-          <script>
-            <uri>model://cutout_wall/materials/scripts</uri>
-            <uri>model://cutout_wall/materials/textures</uri>
-            <name>drc_practice/cutout_wall</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://cutout_wall/materials/textures/cutout_wall.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <sensor name="mud_contact" type="contact">

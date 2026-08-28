@@ -42,11 +42,13 @@
           </mesh>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_coupling_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/coupling_hexagon.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
@@ -64,11 +66,13 @@
 -->
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_red_coupling_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/vrc_standpipe_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <collision name="attachment_col">
@@ -115,11 +119,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
 
       </visual>
@@ -169,11 +175,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -222,11 +230,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -236,11 +246,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -289,11 +301,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -303,11 +317,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -356,11 +372,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -370,11 +388,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -423,11 +443,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -437,11 +459,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -490,11 +514,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -504,11 +530,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -557,11 +585,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -571,11 +601,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -624,11 +656,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -638,11 +672,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -691,11 +727,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -705,11 +743,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -758,11 +798,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -772,11 +814,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -825,11 +869,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -839,11 +885,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -892,11 +940,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -906,11 +956,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -959,11 +1011,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -973,11 +1027,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -1026,11 +1082,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -1040,11 +1098,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -1093,11 +1153,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -1107,11 +1169,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -1160,11 +1224,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -1174,11 +1240,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -1227,11 +1295,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -1241,11 +1311,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -1294,11 +1366,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -1308,11 +1382,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>
@@ -1361,11 +1437,13 @@
           </cylinder>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
       <visual name="sphere">
@@ -1375,11 +1453,13 @@
           </sphere>
         </geometry>
         <material>
-          <script>
-            <uri>model://vrc_firehose_long_a/materials/scripts</uri>
-            <uri>model://vrc_firehose_long_a/materials/textures</uri>
-            <name>vrc/firehose_canvas_a</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.0 0.0 0.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://vrc_firehose_long_a/materials/textures/canvas_a.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
     </link>

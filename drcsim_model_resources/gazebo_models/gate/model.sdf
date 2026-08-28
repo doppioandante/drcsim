@@ -39,11 +39,13 @@
           </mesh>
         </geometry>
         <material>
-          <script>
-            <uri>model://gate/materials/scripts/gate.material</uri>
-            <uri>model://gate/materials/textures</uri>
-            <name>vrc/gate</name>
-          </script>
+          <diffuse>1.0 1.0 1.0 1.0</diffuse>
+          <specular>0.1 0.1 0.1 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://gate/materials/textures/gate.png</albedo_map>
+            </metal>
+          </pbr>
         </material>
       </visual>
 
