@@ -8,7 +8,6 @@
 <xacro:property name="flex_joint_length" value=".016" />
 <xacro:property name="flex_joint_steps" value="2" />
 <xacro:property name="proximal_link_length" value=".062" />
-<xacro:property name="pi" value="3.14" />
 <xacro:property name="flex_offset" value="0.003"/> <!--${0.5*flex_joint_length/flex_joint_steps}-->
 
 <xacro:macro name="flex_link" params="side finger_id link_id">
